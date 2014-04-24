@@ -14,4 +14,4 @@ Rules
 
 7th RULE: **STEAK NIGHT** will go on as long as it needs to.
 
-8th RULE: If this is your first night at **STEAK NIGHT**, you HAVE to prepare a side.
+8th RULE: If this is your first night at **STEAK NIGHT**, you *have* to prepare a side.
